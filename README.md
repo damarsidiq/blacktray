@@ -3,5 +3,7 @@ Multi purpose multimedia player. Supports playlist creation, last played file, t
 
 
 requires: 
-lamp server
-https://github.com/damarsidiq/pxpedia
+<ul>
+<li>lamp server</li>
+<li>https://github.com/damarsidiq/pxpedia</li>
+</ul>
