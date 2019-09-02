@@ -11,7 +11,7 @@ version updates 1.1:
 - new timeline design
 - electron cache
 - <b>fetch lyrics from azlyrics.com</b>
-- bugs fixed
+- some bugs fixed
 
 
 requires: 
